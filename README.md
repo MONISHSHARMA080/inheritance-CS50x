@@ -1,6 +1,6 @@
 # inheritance-CS50x
 
-This is a C program that simulates the inheritance of blood types for each member of a family. It was created as part of the CS50 course at Harvard University.
+This is a C program that simulates the inheritance of blood types for each member of a family
 
 ## Problem Statement
 
@@ -16,11 +16,10 @@ To run the program, follow these steps:
 
 3. Clone the repository using the following command:
 
-   ```shell
+   ```
    git clone https://github.com/your-username/inheritance-blood-types.git```
 4. Compile using
-   ```bash
-   make inheritance```
+   ```  make inheritance```
 5.Run the program:
   ```./inheritance
 ```
