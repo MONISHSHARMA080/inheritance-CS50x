@@ -17,13 +17,14 @@ To run the program, follow these steps:
 3. Clone the repository using the following command:
 
    ```
-   git clone https://github.com/your-username/inheritance-blood-types.git```
+   git clone https://github.com/MONISHSHARMA080/inheritance-CS50x.git
+   ```
 4. Compile using
    ``` make inheritance```
 
 5.Run the program:
-  ```./inheritance
-```
+  ```./inheritance```
+  
 ## Background
 A person's blood type is determined by two alleles, which can be one of three types: A, B, or O. Each person inherits one allele from each parent, resulting in various possible blood type combinations. For example, if one parent has blood type AO and the other has blood type BB, their child's possible blood types would be AB and OB, depending on which allele is inherited from each parent.
 
