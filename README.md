@@ -19,7 +19,8 @@ To run the program, follow these steps:
    ```
    git clone https://github.com/your-username/inheritance-blood-types.git```
 4. Compile using
-   ```  make inheritance```
+   ``` make inheritance```
+
 5.Run the program:
   ```./inheritance
 ```
